@@ -1,0 +1,6 @@
+@ApiWithDuendeIdentityServer_HostAddress = http://localhost:5048
+
+GET {{ApiWithDuendeIdentityServer_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
